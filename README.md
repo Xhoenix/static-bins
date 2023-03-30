@@ -1,0 +1,2 @@
+# Static Binaries
+This repo is a collection of common Linux/Unix tools, which are used for core system functionality, networking and testing/debugging in a modern Linux distribution. These static binaries can also be used in Security Testing/Pentesting engagements. By the time I add support for most popular System Architectures, this'll be the largest such collection of static binaries on the planet!

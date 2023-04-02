@@ -4,3 +4,7 @@ This repo is a collection of statically compiled common Linux/Unix tools, which 
 
 
 **DISCLAIMER:-** Except for coreutils everything in this repo is compiled manually by me in order to ensure binaries are compiled from a proper trusted source. I also audited the coreutils automated build script for any urls pointing to malicious sources and found none.
+
+
+***
+**Created for Linux** ~~with love~~ with a keyboard **by Jitendra Patro.**

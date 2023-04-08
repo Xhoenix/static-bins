@@ -1,0 +1,12 @@
+# Static Linux PV
+
+
+**SHA256SUM:-**
+
+
+```
+cad10226a36964c0f20dbbf96b4a5e1c458f6cef20c87739604beddc7d533f85  pv-mipsel
+40b03ac8e90494820bf25bd0d2975589e9d5638fdcd01e8cf458f2cdf1713eb1  pv-mips64el
+c45874b39becbe240470da4199e47bcf07cf1718fb271586ca6b45c3410d2d5f  pv-aarch64
+78a6fd2e7de4b9bd234ec38666ca0512b01096f00d132f02f77d67aa90faee4e  pv-amd64
+```

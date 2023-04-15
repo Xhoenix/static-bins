@@ -1,0 +1,22 @@
+# Static Linux Sysstat tools - POWERPC
+
+
+
+**SHA256SUM:-**
+
+
+
+
+
+
+
+
+```
+ee8978803118e6c6f95b5b96d8dc80cecd0d424dd794ec9a717f4fd61ec09d65  tapestat
+edbdeb56758194608d4737f628e74c763d681a1335fc2520f2489abac42170e4  cifsiostat
+9c76027aa09c0e229d29d12de75fe807f0c967a870b5035915c450a1eb2bd8b3  sar
+95fcf575ee17e574ac7b73a72600f5b6b516fe3564c1375877ebda40eb203dda  iostat
+8edba919992f7ed922f32f14773913d0a5c1d80b6ffa60dc7ebe8abbc8c5173e  mpstat
+0a020e2256bb94248cbe77d8edecf67442eca64695ab56ae126da21ca39e248a  sadf
+aca7f6bbdbe12c6b4f261835455ba23c75996fbef1bfe795a5a52eb437d7586d  pidstat
+```
